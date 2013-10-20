@@ -38,4 +38,6 @@
 - BA 10/10
 
 - odvajanje frontend poslova od PHP developmenta
-s
+
+- statistika jezika
+http://github.yougeezer.co.uk/alpha/#/languages
