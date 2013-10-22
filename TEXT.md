@@ -34,27 +34,43 @@ But there comes a new breed of PHP....
 - package manager
 
 
+* Composer - Package manager / Packagist - package repository
+
+Brought to the community by Sf2 crowd, started in April 2012 and has 17k packages with 79mil installations. 
+https://packagist.org/statistics
+
+
 * Frameworks
 Zend 2 - enterprisey one
-Symfony 2 - the star :)
-Laravel 4- built using components from Sf2
-Silex - largest microframework built on bases of Sf2
+Symfony 2 - the star :) , ispired by Django, RoR and Spring
+Laravel 4- built using some components from Sf2, very similar in idea to RoR
+Silex - microframework built with Sf2 components
 
 
 * Coding: Framework Interoperability Group
 
-There is unofficial, community organization trying to promote better integration of code from different projects together by suggesting coding standards and disscusion between multiple communties. Idea is not to have 75 different modules/libraries/bundles doing same thing.
+There is unofficial, community organization trying to promote better integration of code from different projects together by suggesting coding standards,etc. Idea is not to have 75 different modules/libraries/bundles doing same thing, trying to use same coding standard ...
 
 * PSR
 
-One of the biggest accomplishments (also a very controversial one) is PSR coding standards. 
+One of the biggest accomplishments (also a very controversial one) is PSR coding standards. Should we use spaces or tabs, naming in camelCase, PascalCase or underscore_naming
+
+* Better practices
+
+- unit testing
+- functional testing
+- behavior testing
 
 
+* PHAR
 
+PHP archive format, similar to JAR, gives opportunity to pack whole application into one file for easier usage and distribution. Examples: composer, phpunit, codesniffer, PHP mess detector
 
+* In the wild
 
-
-
+- Github - most of PHP Open Source projects are hosted there 
+- Travis CI 
+- Vagrant
 
 
 
