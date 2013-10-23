@@ -9,13 +9,26 @@ Well now you can also write it little bit nicer, having classes in namespaces an
 
 Yes PHP is having a renaissance. My name is Miro Svrtan and if interested you can find me on twitter. A little bit about me. I'm working with PHP since last century, currently I'm emplpyed as techincal analyst at Njuskalo. In my spare time I try to organize stuff for community, I'm one of organizers of ZgPHP meetup group and WebCamp conference.
 
+* Milestones
+
+With PHP4 some kind of idea of object orientation was given but till PHP 5 this was well, lets not talk about it. With 5.3 the major changes started to happen: namespace, late static binding, closures, php archive, improved garbage collection.
+
+* Javascript
+
 Lets get back on track. Similar to Javascript, you remember that language that we all used to move stuff around web browser screen? Well somehow people started to use it for something more then just showing/hiding stuff and it had a great impact on web world in general. Similar to this but at smaller scale (since Javascript has and is used independently of your server-side language of choice) PHP is having a renaissance.
+
+* Vox populi
+
+How many of you here have programmer in PHP but have switced to some other server-side language? Keep your hands up please. How many used vanilla PHP only? How many used some inhouse fw? How many used some opensource fw?
 
 Some of you might have used it long time ago, when there were no classes, namespaces, MVC frameworks (some of you might be still using it that way :)) or maybe few years ago when there were number of new frameworks, every month there was a new flavour.  When looking into my community, lot of companies are still using some inhouse framework but that is starting to change. Why? In last few years came strong and opensource frameworks to life.
 
+
+
+* Competition
+
 "Newer" web languages are having a headstart on us since they are mostly based around one framework. Even to a point that people are confused where one R ends and another starts. There are more then few devs writing/provoking comparison of PHP to Django/RoR. Not PHP to Pyhton or Ruby. Yes those frameworks are much better then PHP. A lot better. Incredibly better. In PHP you would be forced to programme all that magic that comes bundled with those frameworks. And you would have to be much smarter then hundreds/thousands of devs that spent their time thru years in making that framework better.
 
-How many of you here have programmer in PHP but have switced to some other server-side language? Keep your hands up please. How many used vanilla PHP only? How many used some inhouse fw? How many used some opensource fw?
 
 This is one of main problems in PHP community now. Lot of projects are more then 10 years old, most of opensource projects are not using fw but they built it from scratch.
 
