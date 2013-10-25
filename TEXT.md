@@ -1,4 +1,98 @@
 
+****
+Pozdrav svima,
+
+Sjecate se ovoga 'old school' php koda? Spoji se na bazu, izvuci ID direktno iz requesta, pa malo HTMLa, pa eto zaboravili smo jos nesto dohvatiti iz baze pa smo tu ubacili kod malo unutra. 
+
+**
+Hvala bogu da su ta vremena iza nas, odrzivost onakvoga koda je ufff. Sa OO i MVC patternima kod moze izgledati puno ljepse, odvojeno po namespacovima..
+
+**
+Razdvojeni prikaz od biznis logike
+
+**
+A podrzava i nasljedjivanje kako bi olaksao rad
+
+****
+
+Da, PHP doživljava renesansu! 
+
+****
+
+Moje ime je Miro Svrtan, PHPom se bavim vec 14-15 godina a trenutno sam zaposlen kao tehnicki analiticar u Njuskalu,a u slobodno vrijeme sam jedan od organizatora ZgPHP Meetupa i WebCampa.
+
+
+****
+
+PHP je poceo 1995, ali je tek sa PHP 3 1998 poceo dobivati na vecoj popularnosti. Nazalost verzija 4 je napravila vise stete nego koristi sa svojim wannabee OO paradigmom ali od 2004 sa PHPom 5 stvari su se pocistile. Ovdje navedene minor verzije su donjele velike promjene u jeziku, ali zbog stigme toga da PHP 6 donosi unicode support su pustene kao .3/.4/.5 umjesto promjene verzije.
+
+**
+
+Sjecate se onoga jezika koji nam je godinama zadavao muke dok smo micali stvari po ekranu, skrivali ili pokazivali ih? OK znali smo ga koristiti i za AJAX pozive :) U zadnjih par godina je dozivio revoluciju, daleko vecu od PHPa ali je to prirodno jer neovisno o odabiru server-side language svi smo ga koristili u nekome dijelu svoga zivota.
+
+
+**
+
+Sad ja imam nekoliko pitanja za vas..
+
+Koliko vas je koristilo PHP prije pa ste presli na neki drugi jezik?
+Koliko od vas je koristilo cisti vanilla php?
+Neki od inhouse ili vlastitih frameworka/librarya?
+A neki od fw-a iz zajednice?
+
+****
+
+Konkurencija, neki imaju odredeni headstart nad PHPom. Dosli su kasnije a cesto zbog postojanja prakticki jednoga frameworka uspjeli su usredotociti se na isti.
+
+**
+
+PHP, ako pitate developere koji je najbolji framework, na njih 10 cete dobiti 11 komada :) Ovdje su neki od najpopularnijih u zadnjih 4-5 godina, abecednim su redom poslagani da me moja zajednica neubije kako je to A bolji od B :) 
+
+**
+Nazalost izvuci neku 100% vjerodostojnu statistiku je nemoguce, cisto sam ovdje naveo par statistika da vidite raznolikost.
+
+** 
+Usporedbe. Developeri vole usporedjivati X i Y, cesto imam priliku naletiti na usporedbe PHPa sa Djangom i RoRom .. Da Django je bolji .. RoR isto tako... ali usporedujemo krive stvari ... PHP je jezik ovo su frameworci. PHP developeri vole napraviti svoj framework, onaj koji je puno bolji od svih ostalih, znas ono ovaj to radi krivo ja cu to bolje. Naravno da u tome neuspiju jer community driven projekti sa godinama razvoja, desecima-stotinama-tisucama developera te tisucama razlicitih projekata napravljenih na njima - nemoguce im je konkurirati. 
+
+I sve vas molim da prestanete sa glupim usporedbama ...
+
+**
+Pro's & con's: 
+
+** 
+
+Con #1: legacy kod. Evo jedan projekt po kojem sam morao neke sitnice mjenjati prije 2 godine. Iako godinama vec zivim u totalno drugacijem PHP svijetu shvatio sam brzo zasto je dosta ljudi pobijeglo ... ubij me za ovo .. ali ovaj kod se poceo raditi prije 13 godina, nazalost nitko jos nije nasao zelju/volju/vremena refaktorizirati kod i napraviti nesto od njega.
+
+Da nazalost ovakve stvari rade velike probleme u zajednici .. 10 godina star kod, pisan totalno drugacijom paradigmom koja se vise prakticki ne koristi ... ali eto projekt je aktivan jer ga jako puno ljudi koristi
+
+
+** 
+Con #2: lak pocetak .. jako puno pocetnika krene kuckati kod iz nule i vrlo brzo sebe ili projekt upuca u nogu ... u drugim jezicima pocetnici krecu odmah sa koristenjem nekoga fw-a i izbjegavaju mogucnost da naprave toliku kolicinu gresaka i losega koda... vecina pocetnika pocne u PHPu sa kodom sa prvoga slajda :(
+
+
+
+**
+Con #3: nekonzistentnost ... core PHPa godinama nije imao naming scheme, specifikaciju, RFCove i sl vec je svatko radio .. to se promjenilo ali eto ostale su neke stare metode sa glupostima ... koliko me zna zivcirati davno sam se pomirio da dobar IDE rjesava ovakve stvari .. 
+
+
+** 
+Pro #1: manual ... php.net ima jako dobru dokumentaciju sa objasnjenjem i primjerima ... 15 godina rada zajednice na tome puno znaci ... nekada mozete vidjeti primjere kako nesto napraviti iz 2002 i bas pokrivaju slucaj koji vama treba ...
+
+** 
+
+Pro #2: lagani pocetak .. da lako je poceti je i plus a postojanje velike kolicine razlicitoga a cesto i jeftinoga hostinga puno znaci na pocetku ... 
+
+**
+Pro #3: evolucija .. kao jezik i zajednica u godinama, sve se radi kao evolucija ne revolucija .. ideja nije potrgati sve sto je do sada radjeno a sa druge strane stvari se ipak mijenjaju ... jezik dosta napreduje, projekti su aktivni, na librarijima i frameworcima radi sve vise i vise ljudi zajedno a zajednica nikad nije bila ovako zivahna i motivirana biti bolji
+
+** 
+Pro #4: zajednica .. jako veliki broj developera, ogroman broj konferencija po cijelome svijetu sa puno predavaca koji dolaze sa razlicitih kontinenata ..  u Zagrebu se odrzavaju redovna mjesecna druzenja a ove godine smo imali i prvu konferenciju, dosta predavaca i publike je bilo izvan zagreba i hrvatske
+
+
+
+
+
+
 1. Slide
 
 
